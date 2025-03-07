@@ -28,6 +28,7 @@ Web Framework: Flask / Streamlit (if applicable)
 
 📂 Project Structure
 
+
 📦 Fake-News-Detection-System
 ├── 📁 dataset        # Contains training and testing data
 ├── 📁 models         # Pre-trained models and scripts
@@ -35,6 +36,8 @@ Web Framework: Flask / Streamlit (if applicable)
 ├── app.py           # Main application file
 ├── requirements.txt # Dependencies
 └── README.md        # Documentation (You are here!)
+
+
 
 🛠️ Installation & Setup
 
